@@ -1,0 +1,49 @@
+INFO:     Started server process [17644]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:54104 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61938 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61938 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54104 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:61009 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53103 - "GET /static/index.html HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:53103 - "GET /static/style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:53103 - "GET /static/app.js HTTP/1.1" 304 Not Modified
+Twilio Error: HTTP 400 error: Unable to create record: 'To' and 'From' number cannot be the same: +91901462XXXX
+MODULE: OTP for +919014627804 is 307967 (Status: simulated)
+INFO:     127.0.0.1:51134 - "POST /api/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64500 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51848 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61821 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53956 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52215 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55212 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63893 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63893 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55212 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50233 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50876 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60520 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60520 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60520 - "POST /api/chat HTTP/1.1" 200 OK
+Twilio Error: HTTP 400 error: Unable to create record: 'To' and 'From' number cannot be the same: 901462XXXX
+MODULE: OTP for 9014627804 is 476678 (Status: simulated)
+INFO:     127.0.0.1:56581 - "POST /api/login HTTP/1.1" 200 OK
+Twilio Error: HTTP 400 error: Unable to create record: 'To' and 'From' number cannot be the same: 901462XXXX
+MODULE: OTP for 9014627804 is 713145 (Status: simulated)
+INFO:     127.0.0.1:56146 - "POST /api/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56581 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:56607 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:62039 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:62039 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:52010 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:52010 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:52010 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:52010 - "POST /api/verify HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:51887 - "GET /static/index.html HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51887 - "GET /static/style.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51224 - "GET /static/app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:57853 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57853 - "POST /api/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57853 - "POST /api/chat HTTP/1.1" 200 OK
